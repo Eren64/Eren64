@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eren Yeager
+- 👋 Hi, I’m Eren
 - 👀 I’m interested in building codes and gaining exp in codes
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
