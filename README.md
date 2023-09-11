@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Eren
-- 👀 I’m interested in building codes and gaining exp in codes
-- 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Arghya
+- 👀 I’m interested in playing with codes
+- 🌱 I’m currently learning web development
 - 📫 N/A
 
 <!---
